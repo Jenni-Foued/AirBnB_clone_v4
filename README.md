@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Joann Vuong<br>
-Mohamed Foued Jenni - [Github](https://github.com/Jenni-Foued) / [Twitter](https://twitter.com/jenni_foued)<br>
+Mohamed Foued Jenni - [Github](https://github.com/Jenni-Foued) / [Twitter](https://twitter.com/jenni_foued) / [LinkedIn](https://www.linkedin.com/in/med-foued-jenni/)<br>
 Hadir Jenni - [Github](https://github.com/JennyHadir)
 ## License
 Public Domain. No copy write protection. 
