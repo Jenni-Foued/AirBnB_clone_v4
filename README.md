@@ -157,7 +157,7 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)<br>
 Joann Vuong<br>
 Mohamed Foued Jenni - [Github](https://github.com/Jenni-Foued) / [Twitter](https://twitter.com/jenni_foued) / [LinkedIn](https://www.linkedin.com/in/med-foued-jenni/)<br>
 Hadir Jenni - [Github](https://github.com/JennyHadir)
